@@ -16,9 +16,7 @@ install.packages(c("AlphaSimR", "yaml"))
 ```
 
 ## 使用方法
-
-1. 配置 `config.yml` 文件
-2. 运行优化程序：
+1. 运行优化程序：
 ```python
 python evoScript.py
 ```
