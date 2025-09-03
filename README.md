@@ -17,6 +17,7 @@ pip install pymoo rpy2 pyyaml numpy
 install.packages(c("AlphaSimR", "yaml"))
 ```
 
+<<<<<<< HEAD
 ## evoScript 执行算法流程
 
 ### 1. 算法初始化
@@ -69,3 +70,12 @@ python evoScript.py
 ## 许可证
 
 MIT License
+=======
+## 使用方法
+1. 运行优化程序：
+```python
+python evoScript.py
+```
+
+
+>>>>>>> 68d27c563f49cb85c587f2813ace7b92d9a1a9d7
