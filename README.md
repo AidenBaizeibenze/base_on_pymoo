@@ -2,7 +2,6 @@
 
 基于 PyMOO 的小麦育种参数优化系统，使用进化算法优化育种程序参数。
 
-
 ## 安装依赖
 
 ### Python 依赖
@@ -17,7 +16,6 @@ pip install pymoo rpy2 pyyaml numpy
 install.packages(c("AlphaSimR", "yaml"))
 ```
 
-<<<<<<< HEAD
 ## evoScript 执行算法流程
 
 ### 1. 算法初始化
@@ -56,26 +54,3 @@ install.packages(c("AlphaSimR", "yaml"))
 conda activate pymoo
 python evoScript.py
 ```
-
-## 引用和致谢
-
-本项目中的 R 模拟脚本基于现有的小麦育种模拟框架，并集成了以下开源工具：
-
-- **AlphaSimR**: 基因组模拟包
-- **PyMOO**: 多目标优化框架
-- **R**: 统计计算环境
-
-如果您使用了本项目的代码，请适当引用相关的研究工作和开源工具。
-
-## 许可证
-
-MIT License
-=======
-## 使用方法
-1. 运行优化程序：
-```python
-python evoScript.py
-```
-
-
->>>>>>> 68d27c563f49cb85c587f2813ace7b92d9a1a9d7

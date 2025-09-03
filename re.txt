@@ -1,0 +1,4988 @@
+流式输出内容被截断，只能显示最后 5000 行内容。
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 12.28784
+[1] 0.2091355
+[1] 12.28784
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      110  76  683   59    9                 18 12.28784
+     inbreeding target_function
+[1,]  0.2091355        12.28784
+遗传增益: 12.287843026028156
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpof270b55.RData" "1"                      "12345"                 
+[4] "109"                    "75"                     "686"                   
+[7] "60"                     "7"                      "17"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 9.153592
+[1] 0.2220936
+[1] 9.153592
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  75  686   60    7                 17 9.153592
+     inbreeding target_function
+[1,]  0.2220936        9.153592
+遗传增益: 9.15359195091974
+[1] "randomSeed: 12345"
+[1] "/tmp/tmp7r_rk1hs.RData" "1"                      "12345"                 
+[4] "109"                    "63"                     "686"                   
+[7] "60"                     "11"                     "35"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 8.838237
+[1] 0.2571653
+[1] 8.838237
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  63  686   60   11                 35 8.838237
+     inbreeding target_function
+[1,]  0.2571653        8.838237
+遗传增益: 8.838236755075915
+[1] "randomSeed: 12345"
+[1] "/tmp/tmp4p1vx_4n.RData" "1"                      "12345"                 
+[4] "109"                    "76"                     "686"                   
+[7] "60"                     "9"                      "18"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 12.03506
+[1] 0.1474032
+[1] 12.03506
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  76  686   60    9                 18 12.03506
+     inbreeding target_function
+[1,]  0.1474032        12.03506
+遗传增益: 12.035055953319072
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpce49mh9s.RData" "1"                      "12345"                 
+[4] "148"                    "60"                     "534"                   
+[7] "38"                     "9"                      "36"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 11.79555
+[1] 0.2152939
+[1] 11.79555
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      148  60  534   38    9                 36 11.79555
+     inbreeding target_function
+[1,]  0.2152939        11.79555
+遗传增益: 11.795551475432434
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpg6e6zjmx.RData" "1"                      "12345"                 
+[4] "147"                    "60"                     "532"                   
+[7] "28"                     "16"                     "36"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 7.913066
+[1] 0.2249862
+[1] 7.913066
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      147  60  532   28   16                 36 7.913066
+     inbreeding target_function
+[1,]  0.2249862        7.913066
+遗传增益: 7.913065580920317
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpnwkmx4cq.RData" "1"                      "12345"                 
+[4] "109"                    "76"                     "686"                   
+[7] "60"                     "9"                      "19"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 9.328043
+[1] 0.3299202
+[1] 9.328043
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  76  686   60    9                 19 9.328043
+     inbreeding target_function
+[1,]  0.3299202        9.328043
+遗传增益: 9.328043121167383
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpr9bdw6x2.RData" "1"                      "12345"                 
+[4] "110"                    "76"                     "694"                   
+[7] "60"                     "9"                      "19"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 10.24159
+[1] 0.2910167
+[1] 10.24159
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      110  76  694   60    9                 19 10.24159
+     inbreeding target_function
+[1,]  0.2910167        10.24159
+遗传增益: 10.241586853552596
+     6 |       60 |      1 |  0.000000E+00 |  0.000000E+00 |  0.000000E+00 |             f
+[1] "randomSeed: 12345"
+[1] "/tmp/tmp_uffytqh.RData" "1"                      "12345"                 
+[4] "126"                    "60"                     "534"                   
+[7] "38"                     "9"                      "36"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 15.4651
+[1] 0.2823664
+[1] 15.4651
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace    gain
+[1,]   1      12345      126  60  534   38    9                 36 15.4651
+     inbreeding target_function
+[1,]  0.2823664         15.4651
+遗传增益: 15.465098950021167
+[1] "randomSeed: 12345"
+[1] "/tmp/tmp887eocos.RData" "1"                      "12345"                 
+[4] "146"                    "75"                     "671"                   
+[7] "60"                     "16"                     "18"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 9.905163
+[1] 0.2129364
+[1] 9.905163
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      146  75  671   60   16                 18 9.905163
+     inbreeding target_function
+[1,]  0.2129364        9.905163
+遗传增益: 9.905163097888034
+[1] "randomSeed: 12345"
+[1] "/tmp/tmp5syk06pp.RData" "1"                      "12345"                 
+[4] "112"                    "76"                     "534"                   
+[7] "38"                     "9"                      "36"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 6.871888
+[1] 0.1752351
+[1] 6.871888
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      112  76  534   38    9                 36 6.871888
+     inbreeding target_function
+[1,]  0.1752351        6.871888
+遗传增益: 6.871888427023558
+[1] "randomSeed: 12345"
+[1] "/tmp/tmptxj3ok8j.RData" "1"                      "12345"                 
+[4] "146"                    "76"                     "529"                   
+[7] "65"                     "9"                      "18"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 9.024495
+[1] 0.2529507
+[1] 9.024495
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      146  76  529   65    9                 18 9.024495
+     inbreeding target_function
+[1,]  0.2529507        9.024495
+遗传增益: 9.024494507272133
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpjv_b923v.RData" "1"                      "12345"                 
+[4] "109"                    "75"                     "686"                   
+[7] "60"                     "9"                      "19"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 9.258654
+[1] 0.1665016
+[1] 9.258654
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  75  686   60    9                 19 9.258654
+     inbreeding target_function
+[1,]  0.1665016        9.258654
+遗传增益: 9.258653620199304
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpo0j1vxit.RData" "1"                      "12345"                 
+[4] "110"                    "61"                     "544"                   
+[7] "28"                     "9"                      "36"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 15.5844
+[1] 0.1436815
+[1] 15.5844
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace    gain
+[1,]   1      12345      110  61  544   28    9                 36 15.5844
+     inbreeding target_function
+[1,]  0.1436815         15.5844
+遗传增益: 15.584399328655957
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpb3hmg_so.RData" "1"                      "12345"                 
+[4] "146"                    "60"                     "680"                   
+[7] "59"                     "8"                      "18"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 9.215246
+[1] 0.1410627
+[1] 9.215246
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      146  60  680   59    8                 18 9.215246
+     inbreeding target_function
+[1,]  0.1410627        9.215246
+遗传增益: 9.215245992069184
+[1] "randomSeed: 12345"
+[1] "/tmp/tmphui0dq_z.RData" "1"                      "12345"                 
+[4] "110"                    "79"                     "686"                   
+[7] "25"                     "17"                     "36"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 9.671648
+[1] 0.182068
+[1] 9.671648
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      110  79  686   25   17                 36 9.671648
+     inbreeding target_function
+[1,]   0.182068        9.671648
+遗传增益: 9.67164813547166
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpa13duayv.RData" "1"                      "12345"                 
+[4] "147"                    "75"                     "539"                   
+[7] "28"                     "16"                     "36"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 10.92045
+[1] 0.1157468
+[1] 10.92045
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      147  75  539   28   16                 36 10.92045
+     inbreeding target_function
+[1,]  0.1157468        10.92045
+遗传增益: 10.920451312520997
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpvun10_m0.RData" "1"                      "12345"                 
+[4] "109"                    "60"                     "676"                   
+[7] "60"                     "9"                      "18"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 8.212433
+[1] 0.2685046
+[1] 8.212433
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  60  676   60    9                 18 8.212433
+     inbreeding target_function
+[1,]  0.2685046        8.212433
+遗传增益: 8.21243326333017
+     7 |       70 |      1 |  0.000000E+00 |  0.000000E+00 |  0.000000E+00 |             f
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpciae1vl4.RData" "1"                      "12345"                 
+[4] "147"                    "64"                     "529"                   
+[7] "28"                     "16"                     "36"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 10.67508
+[1] 0.07973741
+[1] 10.67508
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      147  64  529   28   16                 36 10.67508
+     inbreeding target_function
+[1,] 0.07973741        10.67508
+遗传增益: 10.675082626753897
+[1] "randomSeed: 12345"
+[1] "/tmp/tmp8gb0nnit.RData" "1"                      "12345"                 
+[4] "109"                    "76"                     "686"                   
+[7] "60"                     "9"                      "19"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 10.42671
+[1] 0.4046853
+[1] 10.42671
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  76  686   60    9                 19 10.42671
+     inbreeding target_function
+[1,]  0.4046853        10.42671
+遗传增益: 10.426707679720733
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpfrfltypm.RData" "1"                      "12345"                 
+[4] "146"                    "78"                     "686"                   
+[7] "59"                     "9"                      "18"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 10.95712
+[1] 0.4187089
+[1] 10.95712
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      146  78  686   59    9                 18 10.95712
+     inbreeding target_function
+[1,]  0.4187089        10.95712
+遗传增益: 10.957115309418803
+[1] "randomSeed: 12345"
+[1] "/tmp/tmp514w27qs.RData" "1"                      "12345"                 
+[4] "109"                    "76"                     "686"                   
+[7] "59"                     "9"                      "24"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 10.50255
+[1] 0.3220232
+[1] 10.50255
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  76  686   59    9                 24 10.50255
+     inbreeding target_function
+[1,]  0.3220232        10.50255
+遗传增益: 10.5025500016637
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpx187qk8r.RData" "1"                      "12345"                 
+[4] "109"                    "76"                     "686"                   
+[7] "60"                     "9"                      "18"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 8.225042
+[1] 0.4009101
+[1] 8.225042
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  76  686   60    9                 18 8.225042
+     inbreeding target_function
+[1,]  0.4009101        8.225042
+遗传增益: 8.225041539387968
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpyslb0n8b.RData" "1"                      "12345"                 
+[4] "109"                    "70"                     "686"                   
+[7] "60"                     "9"                      "17"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 9.621637
+[1] 0.1444786
+[1] 9.621637
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  70  686   60    9                 17 9.621637
+     inbreeding target_function
+[1,]  0.1444786        9.621637
+遗传增益: 9.62163666851826
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpqu3xzxve.RData" "1"                      "12345"                 
+[4] "110"                    "58"                     "529"                   
+[7] "30"                     "16"                     "36"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 9.91505
+[1] 0.1163959
+[1] 9.91505
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace    gain
+[1,]   1      12345      110  58  529   30   16                 36 9.91505
+     inbreeding target_function
+[1,]  0.1163959         9.91505
+遗传增益: 9.915050356557536
+[1] "randomSeed: 12345"
+[1] "/tmp/tmphawfg03z.RData" "1"                      "12345"                 
+[4] "109"                    "76"                     "686"                   
+[7] "60"                     "8"                      "35"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 7.719842
+[1] 0.0631672
+[1] 7.719842
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  76  686   60    8                 35 7.719842
+     inbreeding target_function
+[1,]  0.0631672        7.719842
+遗传增益: 7.719841656850215
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpz46xmjq3.RData" "1"                      "12345"                 
+[4] "109"                    "70"                     "686"                   
+[7] "59"                     "9"                      "19"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 11.88641
+[1] 0.1692555
+[1] 11.88641
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  70  686   59    9                 19 11.88641
+     inbreeding target_function
+[1,]  0.1692555        11.88641
+遗传增益: 11.886405906074184
+[1] "randomSeed: 12345"
+[1] "/tmp/tmp2e7xa81v.RData" "1"                      "12345"                 
+[4] "148"                    "60"                     "529"                   
+[7] "28"                     "17"                     "19"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 11.61401
+[1] 0.2606222
+[1] 11.61401
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      148  60  529   28   17                 19 11.61401
+     inbreeding target_function
+[1,]  0.2606222        11.61401
+遗传增益: 11.61401214261508
+     8 |       80 |      1 |  0.000000E+00 |  0.000000E+00 |  0.000000E+00 |             f
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpzxuukb0r.RData" "1"                      "12345"                 
+[4] "109"                    "76"                     "687"                   
+[7] "61"                     "9"                      "19"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 10.95125
+[1] 0.274676
+[1] 10.95125
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  76  687   61    9                 19 10.95125
+     inbreeding target_function
+[1,]   0.274676        10.95125
+遗传增益: 10.951254527502511
+[1] "randomSeed: 12345"
+[1] "/tmp/tmp06frdtjz.RData" "1"                      "12345"                 
+[4] "110"                    "76"                     "683"                   
+[7] "59"                     "9"                      "18"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 10.68967
+[1] 0.1673558
+[1] 10.68967
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      110  76  683   59    9                 18 10.68967
+     inbreeding target_function
+[1,]  0.1673558        10.68967
+遗传增益: 10.689672268022855
+[1] "randomSeed: 12345"
+[1] "/tmp/tmplo0766zi.RData" "1"                      "12345"                 
+[4] "109"                    "76"                     "686"                   
+[7] "60"                     "9"                      "18"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 9.013316
+[1] 0.239599
+[1] 9.013316
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  76  686   60    9                 18 9.013316
+     inbreeding target_function
+[1,]   0.239599        9.013316
+遗传增益: 9.013316369901569
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpf835h27l.RData" "1"                      "12345"                 
+[4] "147"                    "60"                     "528"                   
+[7] "28"                     "17"                     "36"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 12.76895
+[1] 0.07919204
+[1] 12.76895
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      147  60  528   28   17                 36 12.76895
+     inbreeding target_function
+[1,] 0.07919204        12.76895
+遗传增益: 12.76895075284909
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpq34cye4c.RData" "1"                      "12345"                 
+[4] "148"                    "60"                     "534"                   
+[7] "42"                     "9"                      "36"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 11.73132
+[1] 0.1613654
+[1] 11.73132
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      148  60  534   42    9                 36 11.73132
+     inbreeding target_function
+[1,]  0.1613654        11.73132
+遗传增益: 11.731322602284687
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpns6l6fos.RData" "1"                      "12345"                 
+[4] "110"                    "76"                     "683"                   
+[7] "59"                     "9"                      "18"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 10.0771
+[1] 0.3040323
+[1] 10.0771
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace    gain
+[1,]   1      12345      110  76  683   59    9                 18 10.0771
+     inbreeding target_function
+[1,]  0.3040323         10.0771
+遗传增益: 10.07710425846764
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpdga1ax3q.RData" "1"                      "12345"                 
+[4] "109"                    "76"                     "685"                   
+[7] "60"                     "9"                      "19"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 7.99517
+[1] 0.1991625
+[1] 7.99517
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace    gain
+[1,]   1      12345      109  76  685   60    9                 19 7.99517
+     inbreeding target_function
+[1,]  0.1991625         7.99517
+遗传增益: 7.995170328639733
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpoocg06nq.RData" "1"                      "12345"                 
+[4] "106"                    "59"                     "687"                   
+[7] "60"                     "17"                     "19"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 9.546696
+[1] 0.2471075
+[1] 9.546696
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      106  59  687   60   17                 19 9.546696
+     inbreeding target_function
+[1,]  0.2471075        9.546696
+遗传增益: 9.546695630300466
+[1] "randomSeed: 12345"
+[1] "/tmp/tmp50epr59v.RData" "1"                      "12345"                 
+[4] "147"                    "60"                     "529"                   
+[7] "28"                     "9"                      "36"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 8.133713
+[1] 0.1555168
+[1] 8.133713
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      147  60  529   28    9                 36 8.133713
+     inbreeding target_function
+[1,]  0.1555168        8.133713
+遗传增益: 8.13371253368597
+[1] "randomSeed: 12345"
+[1] "/tmp/tmph4so1q8g.RData" "1"                      "12345"                 
+[4] "152"                    "76"                     "528"                   
+[7] "29"                     "9"                      "19"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 9.996242
+[1] 0.3790282
+[1] 9.996242
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      152  76  528   29    9                 19 9.996242
+     inbreeding target_function
+[1,]  0.3790282        9.996242
+遗传增益: 9.996241660006142
+     9 |       90 |      1 |  0.000000E+00 |  0.000000E+00 |  0.000000E+00 |             f
+[1] "randomSeed: 12345"
+[1] "/tmp/tmp1hh6m_4j.RData" "1"                      "12345"                 
+[4] "111"                    "60"                     "534"                   
+[7] "38"                     "9"                      "36"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 8.970084
+[1] 0.2316561
+[1] 8.970084
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      111  60  534   38    9                 36 8.970084
+     inbreeding target_function
+[1,]  0.2316561        8.970084
+遗传增益: 8.97008393943267
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpeogpy315.RData" "1"                      "12345"                 
+[4] "109"                    "62"                     "524"                   
+[7] "60"                     "8"                      "38"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 8.848086
+[1] 0.061035
+[1] 8.848086
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  62  524   60    8                 38 8.848086
+     inbreeding target_function
+[1,]   0.061035        8.848086
+遗传增益: 8.848086372175988
+[1] "randomSeed: 12345"
+[1] "/tmp/tmp_q2rjeo4.RData" "1"                      "12345"                 
+[4] "147"                    "60"                     "692"                   
+[7] "28"                     "9"                      "19"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 10.98377
+[1] 0.4012135
+[1] 10.98377
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      147  60  692   28    9                 19 10.98377
+     inbreeding target_function
+[1,]  0.4012135        10.98377
+遗传增益: 10.983771164188752
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpcnlfksne.RData" "1"                      "12345"                 
+[4] "147"                    "60"                     "524"                   
+[7] "28"                     "16"                     "36"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 11.76465
+[1] 0.1695445
+[1] 11.76465
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      147  60  524   28   16                 36 11.76465
+     inbreeding target_function
+[1,]  0.1695445        11.76465
+遗传增益: 11.764647035184883
+[1] "randomSeed: 12345"
+[1] "/tmp/tmp8w3kqwtq.RData" "1"                      "12345"                 
+[4] "146"                    "76"                     "686"                   
+[7] "60"                     "9"                      "18"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 8.812427
+[1] 0.263524
+[1] 8.812427
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      146  76  686   60    9                 18 8.812427
+     inbreeding target_function
+[1,]   0.263524        8.812427
+遗传增益: 8.812427191419136
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpqoyex9rl.RData" "1"                      "12345"                 
+[4] "147"                    "74"                     "689"                   
+[7] "28"                     "17"                     "17"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 6.969734
+[1] 0.1908952
+[1] 6.969734
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      147  74  689   28   17                 17 6.969734
+     inbreeding target_function
+[1,]  0.1908952        6.969734
+遗传增益: 6.9697339887094545
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpkp03s9nd.RData" "1"                      "12345"                 
+[4] "109"                    "76"                     "522"                   
+[7] "60"                     "16"                     "35"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 10.85255
+[1] 0.1738786
+[1] 10.85255
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  76  522   60   16                 35 10.85255
+     inbreeding target_function
+[1,]  0.1738786        10.85255
+遗传增益: 10.852548704296966
+[1] "randomSeed: 12345"
+[1] "/tmp/tmp330waxwy.RData" "1"                      "12345"                 
+[4] "109"                    "76"                     "689"                   
+[7] "60"                     "9"                      "19"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 10.57266
+[1] 0.2710105
+[1] 10.57266
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      109  76  689   60    9                 19 10.57266
+     inbreeding target_function
+[1,]  0.2710105        10.57266
+遗传增益: 10.572661514926827
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpjopn3rxo.RData" "1"                      "12345"                 
+[4] "110"                    "60"                     "528"                   
+[7] "28"                     "9"                      "19"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 9.024679
+[1] 0.1594631
+[1] 9.024679
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      110  60  528   28    9                 19 9.024679
+     inbreeding target_function
+[1,]  0.1594631        9.024679
+遗传增益: 9.024679307171143
+[1] "randomSeed: 12345"
+[1] "/tmp/tmpbm9o5n71.RData" "1"                      "12345"                 
+[4] "147"                    "76"                     "684"                   
+[7] "59"                     "16"                     "35"                    
+Working on REP: 1 
+Random seed:  12345 
+  FillPipeline stage: 1 of 7
+  FillPipeline stage: 2 of 7
+  FillPipeline stage: 3 of 7
+  FillPipeline stage: 4 of 7
+  FillPipeline stage: 5 of 7
+  FillPipeline stage: 6 of 7
+  FillPipeline stage: 7 of 7
+--> Working on Burn-in with Phenotypic selection program 
+ Working on burn-in year: 1 
+ Working on burn-in year: 2 
+ Working on burn-in year: 3 
+ Working on burn-in year: 4 
+ Working on burn-in year: 5 
+ Working on burn-in year: 6 
+ Working on burn-in year: 7 
+ Working on burn-in year: 8 
+ Working on burn-in year: 9 
+ Working on burn-in year: 10 
+ Working on burn-in year: 11 
+ Working on burn-in year: 12 
+ Working on burn-in year: 13 
+ Working on burn-in year: 14 
+ Working on burn-in year: 15 
+ Working on burn-in year: 16 
+ Working on burn-in year: 17 
+ Working on burn-in year: 18 
+ Working on burn-in year: 19 
+  Start collecting training population 
+ Working on burn-in year: 20 
+  Collecting training population 
+--> Working on cost-constrained Genomic selection program 
+ Working on future year: 21 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 22 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 23 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 24 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 25 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 26 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 27 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 28 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 29 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 30 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 31 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 32 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 33 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 34 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 35 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 36 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 37 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 38 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 39 
+  Running GS model
+  Maintaining training population 
+ Working on future year: 40 
+  Running GS model
+  Maintaining training population 
+[1] 11.40199
+[1] 0.2311746
+[1] 11.40199
+     rep randomSeed nCrosses nDH nPYT nAYT nEYT newParents_replace     gain
+[1,]   1      12345      147  76  684   59   16                 35 11.40199
+     inbreeding target_function
+[1,]  0.2311746        11.40199
+遗传增益: 11.401991336216497
+    10 |      100 |      1 |  0.000000E+00 |  0.000000E+00 |  0.000000E+00 |             f
