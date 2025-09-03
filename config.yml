@@ -1,0 +1,17 @@
+nfactors: 6
+name_parameter:
+  - "nCrosses"
+  - "nDH"
+  - "nPYT"
+  - "nAYT"
+  - "nEYT"
+  - "newParents_replace"
+integer: [true, true, true, true, true, true]
+binary: [false, false, false, false, false, false]
+cost_par: [1, 2, 3, 4, 5]
+base_cost_ini: [100, 89, 500, 50, 10]
+linked_parameter: true
+which_linked_parameter: [1, 2]
+mut_offspring: 0.2
+mut_parent: 0.3
+min_range_mut: [50, 30, 50, 5, 5, 5]

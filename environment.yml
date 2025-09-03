@@ -1,0 +1,15 @@
+name: pymoo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - pyyaml
+  - rpy2
+  - r-base
+  - r-alphasimr
+  - pip
+  - pip:
+    - pymoo
