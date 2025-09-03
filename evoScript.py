@@ -251,5 +251,5 @@ if __name__ == "__main__":
     print("\n" + "="*50)
 
     optimizer = WheatBreedingAlgorithm()
-    results = optimizer.optimize(population_size=10, n_generations=10)  # 快速测试
+    results = optimizer.optimize(population_size=10, n_generations=10)  
     optimizer.print_results()

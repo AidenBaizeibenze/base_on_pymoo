@@ -2,58 +2,69 @@
 
 基于 PyMOO 的小麦育种参数优化系统，使用进化算法优化育种程序参数。
 
-## 功能特点
-
-- 使用 NSGA-II 进化算法优化育种参数
-- 集成 AlphaSimR 进行遗传模拟
-- 支持约束优化和成本控制
-- 可配置的育种参数和约束条件
-
-## 文件结构
-
-```
-base_on_pymoo/
-├── evoScript.py      # 主程序文件
-├── simuScript.r      # R 模拟脚本
-├── config.yml        # 配置文件
-├── environment.yml   # 环境依赖
-└── README.md         # 说明文档
-```
 
 ## 安装依赖
 
 ### Python 依赖
+
 ```bash
 pip install pymoo rpy2 pyyaml numpy
 ```
 
 ### R 依赖
+
 ```r
 install.packages(c("AlphaSimR", "yaml"))
 ```
 
-## 使用方法
+## evoScript 执行算法流程
 
-1. 配置 `config.yml` 文件
-2. 运行优化程序：
-```python
+### 1. 算法初始化
+
+- 加载配置文件 `config.yml`
+- 设置育种参数边界和约束条件
+- 初始化 R 环境和 AlphaSimR 库
+
+### 2. 进化算法设置
+
+- 设置使用 NSGA-II 算法
+
+### 3. 目标函数评估
+
+- 对每个个体调用 AlphaSimR 模拟
+- 计算遗传增益作为目标函数
+- 评估成本约束，超过的给评很差的目标函数值
+
+### 4. 约束检查
+
+- 检查育种参数约束：
+  - nCrosses > nDH
+  - nPYT > nAYT > nEYT  超过的给评很差的目标函数值
+
+### 5. 进化过程
+
+- 选择优良的个体，执行交叉变异操作，循环执行到到达设置的最大代数
+
+### 6. 结果输出
+
+- 输出每一代进化的参数和遗传增益，最终输出最优的详细参数
+
+## 运行
+
+```bash
+conda activate pymoo
 python evoScript.py
 ```
 
-## 参数说明
+## 引用和致谢
 
-- `nCrosses`: 杂交数量
-- `nDH`: 双单倍体数量  
-- `nPYT`: 初步产量试验数量
-- `nAYT`: 高级产量试验数量
-- `nEYT`: 精英产量试验数量
-- `newParents_replace`: 新亲本替换数量
+本项目中的 R 模拟脚本基于现有的小麦育种模拟框架，并集成了以下开源工具：
 
-## 约束条件
+- **AlphaSimR**: 基因组模拟包
+- **PyMOO**: 多目标优化框架
+- **R**: 统计计算环境
 
-- nCrosses > nDH
-- nPYT > nAYT > nEYT
-- 成本约束：与基准成本差异不超过 5000
+如果您使用了本项目的代码，请适当引用相关的研究工作和开源工具。
 
 ## 许可证
 
